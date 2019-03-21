@@ -1,1 +1,1 @@
-# Talk on coding experiments in (computer) science
+# Talk on experiments in (computer) science
