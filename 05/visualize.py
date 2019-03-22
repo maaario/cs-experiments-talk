@@ -4,7 +4,8 @@ from methods import all_methods
 
 # Read results
 results = dict()
-for method_name, method in all_methods.items():
+for method in all_methods:
+    method_name = method.__name__
     with open(method_name + ".txt", "r") as answers_file:
         results[method_name] = [int(x) for x in answers_file.read().split("\n")]
 

@@ -30,7 +30,7 @@ experimenty pekne, rýchlo a jednoducho programovať a vyhodnocovať. Porovnať 
 byť ľahké, ale ako sa nezblázniť z toho, ak máme 10 náhodných algoritmov, pričom každému môžeme 
 nastaviť 10 parametrov, spustiť ho na 10 rôznych vstupoch a každý výpočet trvá pol hodinu?
 
-Prednáška pre stredoškolákov na [Klube Trojstenu](http://klub.trojsten.sk/), 22.3.2018.
+Prednáška pre stredoškolákov na [Klube Trojstenu](http://klub.trojsten.sk/), 22.3.2019.
 
 ## Contents
 Experimental infrastructure, subset sum python, plotting, refactoring, commandline flags, 

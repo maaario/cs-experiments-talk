@@ -17,7 +17,7 @@ def prepare_argparser():
     argparser.add_argument('-repeat', default=100, type=int, help='Number of the method calls.')
 
     # Methods and parameters
-    argparser.add_argument('-method', default='sol_random', help='Name of solver method.',
+    argparser.add_argument('-method', default='sol_repeat_random_half', help='Name of solver method.',
                            choices=all_methods.keys())
     argparser.add_argument('-num_repeats', default=10, type=int,
                            help='Parameter of "repeat_random_half" method.')

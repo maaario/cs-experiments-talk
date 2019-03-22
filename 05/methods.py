@@ -47,9 +47,9 @@ def sol_sort_greedy(numbers):
     return min_answer
 
 
-all_methods = {
-    "sol_random": sol_random,
-    "sol_random_half": sol_random_half,
-    "sol_repeat_random_half": sol_repeat_random_half,
-    "sol_sort_greedy": sol_sort_greedy,
-}
+all_methods = [
+    sol_random,
+    sol_random_half,
+    sol_repeat_random_half,
+    sol_sort_greedy,
+]

@@ -36,6 +36,6 @@ if __name__ == "__main__":
         else:
             args.output = output_path
             run_experiment(args)
-    
+
     # Visualize.
     plot_comparison(output_dir)
