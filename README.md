@@ -1,4 +1,4 @@
-# EN: Talk on experiments in (computer) science
+# EN: Talk on experiments in computer science
 
 Some problems in computer science can be solved efficiently, but with large input data 
 we might wait forever even with use of an efficient algorithm. For other problems even the best known
